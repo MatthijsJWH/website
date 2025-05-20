@@ -27,7 +27,7 @@
 <section class="hero {isVisible ? 'visible' : ''}">
   <div class="hero-content">
     <h1>Hi, I'm <span class="text-primary">Matthijs Halvemaan</span></h1>
-    <p class="hero-subtitle">Full Stack Developer | Handball Enthusiast | Geek</p>
+    <p class="hero-subtitle">Front End Developer | Handball Enthusiast | Geek</p>
     <p class="hero-description">
       I build modern web applications with a focus on clean code, performance, and user experience.
     </p>
