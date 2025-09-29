@@ -177,6 +177,7 @@
     font-size: 0.875rem;
     cursor: pointer;
     transition: all 0.2s ease;
+    color: var(--text-color);
   }
 
   .category-btn:hover {
